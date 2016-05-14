@@ -33,11 +33,12 @@ mean(): Mean value
 std(): Standard deviation
 meanFreq(): Weighted average of the frequency components to obtain a mean frequency
 
-Accordingly, the columns of the data set were named based on the features and values. 
+Accordingly, the columns of the data set were named based on the features and values. The variable names were all modified to meet the tidy data requirements.
 
 The data set is grouped by the following columns:
 
-## Factor Columns:* subject - The ID of the test subject. Has values from 1-30
+## Factor Columns:
+* subject - The ID of the test subject. Has values from 1-30
 * activity - The type of activity performed when the corresponding measurements were taken. Has the following labels:
 • WALKING: subject was walking during the test
 • WALKING_UPSTAIRS: subject was walking up a staircase during the test
