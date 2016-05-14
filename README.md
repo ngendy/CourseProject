@@ -3,7 +3,6 @@
 This is the course project for the "Getting and Cleaning Data" course on Coursera
 
 ##The following files are included:
-=========================================
 
 - 'README.md': Describes the available files
 
